@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761243247606",
+    "project_id": "docapointment-1a16e",
+    "storage_bucket": "docapointment-1a16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761243247606:android:fa72f9a686a821651a9dd7",
+        "android_client_info": {
+          "package_name": "com.example.doctorconsultant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByb1KisJchrA_lIU_EtUUmqIuJT83fCQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

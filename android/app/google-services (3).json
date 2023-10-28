@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "761243247606",
+    "firebase_url": "https://docapointment-1a16e-default-rtdb.firebaseio.com",
+    "project_id": "docapointment-1a16e",
+    "storage_bucket": "docapointment-1a16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761243247606:android:b01334d7be8337ed1a9dd7",
+        "android_client_info": {
+          "package_name": "com.aryan.doctorconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761243247606-tav22jhdi19vgcsc4u7f92hea5tk4tn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByb1KisJchrA_lIU_EtUUmqIuJT83fCQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761243247606-tav22jhdi19vgcsc4u7f92hea5tk4tn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761243247606-19ime4g65rqv6kjpg04fulalbupok0db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorconsultant.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761243247606:android:fa72f9a686a821651a9dd7",
+        "android_client_info": {
+          "package_name": "com.example.doctorconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761243247606-lo75u4vo3f5lal40nuni02qkh51kt8dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorconsultant",
+            "certificate_hash": "fc550865ebb69e7da40d558eceabdd07b5180ebe"
+          }
+        },
+        {
+          "client_id": "761243247606-tav22jhdi19vgcsc4u7f92hea5tk4tn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByb1KisJchrA_lIU_EtUUmqIuJT83fCQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761243247606-tav22jhdi19vgcsc4u7f92hea5tk4tn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761243247606-19ime4g65rqv6kjpg04fulalbupok0db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorconsultant.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

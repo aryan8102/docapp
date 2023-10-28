@@ -138,20 +138,7 @@ class _SigninScreenState extends State<SigninScreen> {
 
 
                           ),
-                          validator: (value){
-                            RegExp regex=RegExp(r'^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[!@#\$&*~]).{8,}$');
 
-                            if(value!.length < 8 ){
-                              return "Enter password of minimum 8 length";
-                            }
-                            if(value!.isEmpty){
-                              return'enter password';
-                            }
-                            else if(!regex.hasMatch(value)){
-                              return ("Password should contain upper,lower,digit and Special character ");
-                            }
-                            return null;
-                          },
                         ),
                       ],
                     ),
